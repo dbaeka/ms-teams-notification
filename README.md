@@ -1,6 +1,6 @@
-# Currency Exchange Service
+# MS Teams Notification Service 
 
-This package provides access to get the exchange amount for any currency
+This package provides sends a notification to MS Teams when the Order Status Changes
 
 ## Usage
 The package is configured to be used within the main Pets Store.
@@ -22,4 +22,10 @@ composer pint
 To run PHP stan, simply run
 ```bash
 composer analyse
+```
+
+## PHPInsight
+To run PHP Insight, simply run
+```bash
+composer insight
 ```
